@@ -23,6 +23,7 @@ h3 {
 }
 
 #imga{
+    transition: transform.2s;
     height: 300px;
     width: 300px;
     border-radius: 30%;
