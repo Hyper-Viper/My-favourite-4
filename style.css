@@ -29,7 +29,7 @@ h3 {
 }
 
 #imga:hover{
-    scale:2.5;
+    transform: scale(0.9);
 }
 
 @keyframes animate {
