@@ -28,6 +28,10 @@ h3 {
     border-radius: 30%;
 }
 
+#imga:hover{
+    scale:2.5;
+}
+
 @keyframes animate {
     0% {
         background-position: 0%, 100%;
